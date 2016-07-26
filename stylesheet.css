@@ -1,0 +1,85 @@
+body{
+	background-color: brown;
+}
+h1{
+	text-align: center;
+	font-size: 10em;
+	font-family: sans-serif;
+	text-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+#navbar {
+	position: fixed;
+	top:1%;
+	left:55%;
+	margin-left:-254px;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	border-radius:  10px 10px;
+	background-color: #cc0323
+}
+p{
+	text-align: center;
+	color: white;
+}
+/*CSS FOR PHOTOS*/
+
+table {
+	border: #000000 1px solid;
+	background-color: #acd1b2;
+	border-bottom-right-radius: 15em;
+	border-bottom-left-radius: 15em;
+	border-top-right-radius: 15em;
+	border-top-left-radius: 15em;
+
+}
+
+td {
+	height: 75px;
+	width: 75px;
+
+}
+
+td img {
+	height: 35em;
+	width: 35em;
+	box-shadow: none;
+	border-bottom-right-radius: 15em;
+	border-bottom-left-radius: 15em;
+	border-top-right-radius: 15em;
+	border-top-left-radius: 15em;
+}
+
+th {
+	font-family: Verdana;
+	font-size: 10em;
+	font-weight: normal;
+	color: #3c4543
+}
+img {
+	height: 170px;
+	width: 170px;
+	box-shadow: rgba(0,0,0,0.2) 1em 1em;
+}
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 5em;
+	border: .1em solid;
+	background-color: #993333;
+	text-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+p{
+	
+}
